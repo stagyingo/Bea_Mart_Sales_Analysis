@@ -61,10 +61,29 @@ Data visualization was performed to present the findings in a clear, digestible 
 
  Products by Quantity         |     Products by Revenue
 :----------------------:|:-------------------------:
-![](Productsjpg)        | ![](Products_revenue.jpg)
+![](Product.jpg)        | ![](Products_revenue.jpg)
 
 
 TTime Series         |    Payment Method
 :----------------------:|:-------------------------:
-![](Time_series.jpg)        | ![](Payment method analysis.jpg)
+![](Time_series.jpg)        | ![](Payment_method.jpg)
 
+
+## 📈 Key Insights
+- Steady upward trend in total sales from mid december.
+- Revenue spikes observed during mid novemeber.
+- Burgers stand tall as the top product by revenue, contribute over 60% of revenue, indicating a strong Pareto effect.
+- Chicken sandwich and side / other underperformed across all regions, suggesting review of pricing or marketing.
+- High correlation found between discount rate and sales volume, indicating promotional sensitivity.
+
+## 📌 Conclusions
+Sales performance is influenced by product concentration, seasonal demand, and customer segmentation.
+The business has clear opportunities to capitalize on high-performing products while addressing persistent category weaknesses.
+
+## Recommendations
+- Increase targeted marketing for high-value customer segments.
+- Reassess low-performing products consider price adjustments or promotions.
+- Implement seasonal inventory planning for peak months.
+- Expand analysis with predictive modeling (future project extension).
+
+  THANK YOU FOR READING
